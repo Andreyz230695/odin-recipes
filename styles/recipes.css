@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior:smooth;
+}
+
+#home{
+    background-color:rgba(255, 186, 8) ;
+    padding: 1rem;
+    text-decoration: none;
+    position: fixed;
+    border-radius: 5px;
+    color:black;
+    font-weight: 900;
+    transition: all 0.5s ease;
+}
+
+.cover{
+    width: 50%;
+    height: 50%;
+}
+
+p{
+    word-spacing: 6px;
+    line-height: 1.5rem;
+}
+
+li{
+    line-height: 1.2rem;
+    word-spacing: 4px;
+}
+
+h1{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    padding: 1em;
+  
+}
+
+.about{
+    display: block;
+    margin: 0 auto;
+    width: 320px;
+}
+
+#jump{
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+    background-color:rgba(255, 186, 8) ;
+    font-weight: 700;
+    color:black;
+    width: 320px;
+    border-radius: 20px;
+    margin: 0 auto;
+    text-align:center;
+    
+}
+
+
+.about h2{
+    padding: 1rem;
+    text-align: center;
+}
+
+.about ul{
+    list-style:square;
+    width: 320px;
+    background-color:rgba(244, 96, 54, 0.522);
+    margin-bottom: 1rem;
+    border-radius: 20px;
+}
+
+.about ul li{
+    padding: 1rem;
+}
+
+
+.container{
+    margin-top:1rem;
+    padding: 1rem;
+    width:75%;
+    margin: 0 auto;
+}
+
+.container p{
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.ing{
+    list-style:square;
+    width: 100%;
+    background-color:rgba(244, 96, 54, 0.522);
+    margin-bottom: 1rem;
+    border-radius: 20px;
+    margin-top: 1rem;
+}
+
+.ing li{
+    padding: 1rem;
+}
+
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 27rem;
+    height: 25rem;
+    padding: 1rem;
+}
