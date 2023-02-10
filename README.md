@@ -1,2 +1,3 @@
 # odin-recipes
 First of TOP projects
+Exercises with the basic html tags for links, images, lists...
