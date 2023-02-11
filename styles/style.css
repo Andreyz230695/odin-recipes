@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
@@ -46,15 +47,14 @@ ul li a:hover{
 
     font-size: 36px;
 }
-
 #first{
     background-color: #F5D509;
-    color:#E55934
-
+    color:#E55934;
 }
 #first:hover{
     background-color: #E55934;
     color:white;
+    border:3px groove #F5D509;
 }
 
 #second{
@@ -64,6 +64,7 @@ ul li a:hover{
 #second:hover{
     background-color: #E55934;
     color:white;
+    border:3px groove #F5D509;
 }
 
 #third{
@@ -74,4 +75,5 @@ ul li a:hover{
 #third:hover{
     background-color: #E55934;
     color:white;
+    border:3px groove #F5D509;
 }
